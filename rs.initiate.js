@@ -1,3 +1,3 @@
-//use local
-//db.dropDatabase()
+use local
+db.dropDatabase()
 rs.initiate()
